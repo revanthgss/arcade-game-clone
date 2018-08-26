@@ -6,4 +6,4 @@ This repo contains all the code of the arcade game clone developed as a part of 
  * Download or clone this repo.
  * Run the _index.html_ file
  * You win the game, if you touch the water.
- * You lose the game, if you are touched by spider.
+ * You lose the game, if you are touched by bug.
